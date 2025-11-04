@@ -12,8 +12,8 @@ Developed by Marcelo Rovai - MJRoBot.org @ 21Feb18
 
 import cv2
 import numpy as np
-from PIL import Image
-import os
+# from PIL import Image
+# import os
 
 # Path for face image database
 path = 'dataset'

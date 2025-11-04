@@ -10,7 +10,7 @@ Developed by Marcelo Rovai - MJRoBot.org @ 21Feb18
 '''
 
 import cv2
-import os
+# import os
 
 cam = cv2.VideoCapture(0)
 cam.set(3, 640) # set video width
